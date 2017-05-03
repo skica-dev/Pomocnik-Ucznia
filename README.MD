@@ -1,12 +1,7 @@
 Pomocnik Ucznia
 ===========================
 
->Maj 2014, program przygotowany na IV Dolnośląski Konkurs Małego Programisty
-
->“JUŻ ZAWSZE BĘDZIESZ
->SPAKOWANY
->I PRZYGOTOWANY DO
->LEKCJI.”
+>*Maj 2014, program przygotowany na IV Dolnośląski Konkurs Małego Programisty*
 
 Instalacja
 -------------------------
@@ -54,5 +49,10 @@ Materiały pomocnicze
 2. Strona internetowa
 http://www.centrumxp.pl/dotNet/115,k
 ategoria,Visual-C-w-praktyce.aspx
+
+>“JUŻ ZAWSZE BĘDZIESZ
+>SPAKOWANY
+>I PRZYGOTOWANY DO
+>LEKCJI.”
 
 >Dziękuję tacie za wspólnie spędzone godziny przy komputerze ;P
