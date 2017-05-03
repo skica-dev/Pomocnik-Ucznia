@@ -1,7 +1,7 @@
 Pomocnik Ucznia
 ===========================
 
->*Maj 2014, program przygotowany na IV Dolnośląski Konkurs Małego Programisty*
+>**Maj 2014, program przygotowany na IV Dolnośląski Konkurs Małego Programisty**
 
 Instalacja
 -------------------------
@@ -47,12 +47,13 @@ Materiały pomocnicze
 -------------------------
 1. Książka "C# Praktyczny kurs" Marcina Lisa
 2. Strona internetowa
-http://www.centrumxp.pl/dotNet/115,k
-ategoria,Visual-C-w-praktyce.aspx
+http://www.centrumxp.pl/dotNet/115,kategoria,Visual-C-w-praktyce.aspx
 
 >“JUŻ ZAWSZE BĘDZIESZ
 >SPAKOWANY
 >I PRZYGOTOWANY DO
 >LEKCJI.”
+
+
 
 >Dziękuję tacie za wspólnie spędzone godziny przy komputerze ;P
