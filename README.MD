@@ -9,7 +9,7 @@ Przed pierwszym uruchomieniem programu
 nalezy przeprowadzić instalację programu (na
 prawach administratora). Wystarczy uruchomić
 z płyty Setup.exe i postępować zgodnie z
-instrukcją.
+instrukcją. _Edit (4.05.2017): zmiana Setup.exe na PomocnikUcznia.exe - instalator wygasł._
 
 Plan lekcji
 -------------------------
