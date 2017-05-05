@@ -1,7 +1,7 @@
 Pomocnik Ucznia
 ===========================
 
->**Maj 2014, program przygotowany na IV Dolnośląski Konkurs Małego Programisty**
+>**Maj 2014, program przygotowany na IV Dolnośląski Konkurs Małego Programisty - zajął miejsce czwarte i zdobył wyróżnienie**
 
 Instalacja
 -------------------------
